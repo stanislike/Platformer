@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.Platformer-Correction.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\- PROJETS\000 - ICAN\2020-2021\S2-Cours-1-2-Plateformer\S2-1-Plateformer\Platformer-Correction\.idea\.idea.Platformer-Correction\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
